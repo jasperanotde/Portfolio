@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.23d0b4ce.chunk.css",
+    "main.js": "/portfolio/static/js/main.64e566b7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.64e566b7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.3db93063.chunk.js": "/portfolio/static/js/2.3db93063.chunk.js",
+    "static/js/2.3db93063.chunk.js.map": "/portfolio/static/js/2.3db93063.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.23d0b4ce.chunk.css.map": "/portfolio/static/css/main.23d0b4ce.chunk.css.map",
+    "static/js/2.3db93063.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3db93063.chunk.js.LICENSE.txt",
+    "static/media/DBTC Logo.acfdf332.png": "/portfolio/static/media/DBTC Logo.acfdf332.png",
+    "static/media/Profile Picture.409fd9d3.png": "/portfolio/static/media/Profile Picture.409fd9d3.png",
+    "static/media/address.564096bf.png": "/portfolio/static/media/address.564096bf.png",
+    "static/media/crescent-moon.1f115041.png": "/portfolio/static/media/crescent-moon.1f115041.png",
+    "static/media/mail.2c378c9e.png": "/portfolio/static/media/mail.2c378c9e.png",
+    "static/media/phone.2ddd243e.png": "/portfolio/static/media/phone.2ddd243e.png",
+    "static/media/sun.22be59c7.png": "/portfolio/static/media/sun.22be59c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.3db93063.chunk.js",
+    "static/css/main.23d0b4ce.chunk.css",
+    "static/js/main.64e566b7.chunk.js"
+  ]
+}
